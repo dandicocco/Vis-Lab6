@@ -1,0 +1,28 @@
+.row {
+    margin-top: 10px;
+}
+
+/* line styles */
+.axis path,
+.axis line { 
+	fill: none;
+	stroke: #333;
+	shape-rendering: crispEdges;
+}
+label {
+    text-align: right;
+}
+
+/* axis labels */
+.axis text {
+	font-family: sans-serif;
+	font-size: 8px;
+}
+
+.legendLabels {
+    font-size: smaller;
+}
+
+.axis {
+    font-size: 10px;
+}
